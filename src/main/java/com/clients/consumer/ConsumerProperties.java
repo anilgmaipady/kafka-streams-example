@@ -112,7 +112,7 @@ public class ConsumerProperties {
             bootstrapServers = val;
             return this;
         }
-
+//test
         public Builder withGroupId(String val) {
             groupId = val;
             return this;
